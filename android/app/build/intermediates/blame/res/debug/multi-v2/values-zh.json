@@ -1,0 +1,37 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/techugomac/Projects/Client Animations Showcase/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/techugomac/.gradle/caches/transforms-2/files-2.1/30651f7ec4f34ef93891dde88f4545a8/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,425",
+                        "endLines": "15,29",
+                        "endColumns": "19,19",
+                        "endOffsets": "420,759"
+                    }
+                },
+                {
+                    "source": "/Users/techugomac/.gradle/caches/transforms-2/files-2.1/defd0a34ecda474913e35e346b2f6de4/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    },
+                    "to": {
+                        "startLines": "30,31,32",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "764,818,872",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "813,867,914"
+                    }
+                }
+            ]
+        }
+    ]
+}
